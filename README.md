@@ -23,7 +23,24 @@ True"
 
 Loops: 
 
-A loop is a sequence of instruction s that is continually repeated until a certain condition is reached. Loops have For Loops (Iterators) which is the process of looping through the objects or items in a collection. You can use Range with For Loops to repeat an action a specific number of times.
+A loop is a sequence of instruction s that is continually repeated until a certain condition is reached. Loops have For Loops (Iterators) which is the process of looping through the objects or items in a collection. An example is:
+								For row = 1 To 10
+									cells(row,1) = row
+								Next row
+
+You can use Range with For Loops to repeat an action in a specific number of times. A good example is:  
+		For i in range (0,rows):|
+			for j in range (0,i+1):
+				print("*",end=' ')
+
+
+
+You can also use While Loops which is a type of loop that is used when you don't know exactly how many times the code will repeat. An example of a while loop is : 
+					{
+					System.out.println(i);
+					i++;
+					} while (i <=10);
+
 
 
 
