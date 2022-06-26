@@ -42,5 +42,13 @@ You can also use While Loops which is a type of loop that is used when you don't
 					} while (i <=10);
 
 
+Functions:
+
+A function is  a chunk of code that you can use repeatedly, rather than writing it out multiple times. Function blocks begin with the keyword def followed by the function name and parentheses ( ( ) ). Functions are used to organize code into reusable pieces. They take parameters and we call them by passing in arguments.
+
+
+
+
+
 
 
