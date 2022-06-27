@@ -11,7 +11,17 @@ An array is a random-access container, meaning any element of this container can
                         int al=1.a2=2. a3=3 ,a4=4, i;
                         int int_array[] = {10,20};}
                         
-A linked list in the other hand is a sequential-access container, meaning that elements of this data structure can only be accessed sequentially. 
+A linked list in the other hand is a sequential-access container, meaning that elements of this data structure can only be accessed sequentially. An example is 
+                                                         class DoublyLinkedList
+                                                             attr_accessor :head, :tail, :length
+                                                             
+                                                             def initialize()
+                                                                @head = nil
+                                                                @tail = nil
+                                                                @length = 0
+                                                              end
+                                                              
+2. Set:
 
 
 
