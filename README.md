@@ -25,7 +25,27 @@ A linked list in the other hand is a sequential-access container, meaning that e
 
 
 
+ A set is an abstract data type that will store an unordered collection of unique values. Normally,  the elements are similar type of numbers but a set can be made up of elements of different types. An example of sets is :
+ 
+ >>> first_set = set(("Connor", 32, (1, 2, 3)))
+>>> first_set
+{32, 'Connor', (1, 2, 3)}
 
+Sets have a few basic operations like Set union and Set intersection. Set union is the set of all the elements of both the sets without duplicates. You use the union() to find the union of a Python set. An example is 
+
+>>> first_set = {1, 2, 3}
+>>> second_set = {3, 4, 5}
+>>> first_set.union(second_set)
+{1, 2, 3, 4, 5}
+
+A Set intersectio is the set of all the common elements of both the sets. You can use the intersection() method to find the intersection of a Python set. An example is
+>>> first_set = {1, 2, 3, 4, 5, 6}
+>>> second_set = {4, 5, 6, 7, 8, 9}
+>>> first_set.intersection(second_set)
+{4, 5, 6}
+>>>
+ 
+ 
 
 
 
