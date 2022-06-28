@@ -45,7 +45,9 @@ A Set intersectio is the set of all the common elements of both the sets. You ca
 {4, 5, 6}
 >>>
  
- 
+ 3. Tree
+
+A tree is a nonlinear data structure, compared to arrays, linked lists, stacks and queues which are linear data structures. A tree can be empty with no nodes or a tree is a structure consisting of one node called the root and zero or one or more subtrees.There are many operations performed in a tree like insertion which can be performed in various ways depending on where you need to insert the new element.
 
 
 
