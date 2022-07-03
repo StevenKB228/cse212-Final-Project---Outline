@@ -9,15 +9,15 @@ Stacks have two basic operations which are push and pop. Push adds an element to
       
 Example 1.
     
-    begin
- if stack is full
-    return
- endif
-else  
- increment top
- stack[top] assign value
-end else
-end procedure                                Example 2.
+     begin
+    if stack is full
+       return
+      endif
+    else  
+      increment top
+      stack[top] assign value
+     end else
+     end procedure                            Example 2.
 
                                                          class DoublyLinkedList
                                                              attr_accessor :head, :tail, :length
