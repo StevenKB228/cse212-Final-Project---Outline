@@ -1,6 +1,6 @@
 # Python Fundamentals Tutorial
 
-Welcome to the Python Fundamentals Tutorial.  Every beginning Python programmer should understand these basic topics:
+Hey guys, I am Steven Balibuno and Welcome to the Python Fundamentals Tutorial. Here I will be talking about topics that every beginning Python programmer should understand:
 
 - [Stack](1-stack.md)
 - [Set](2-set.md)
@@ -14,4 +14,4 @@ For questions or comments, please send them to:
 
 Chad Macbeth, BYU-Idaho, CSE 310, Section 3
 
-replacewith your email@byui.edu
+replacewith your bal20024@byui.edu
