@@ -14,4 +14,4 @@ For questions or comments, please send them to:
 
 Chad Macbeth, BYU-Idaho, CSE 310, Section 3
 
-replacewith your bal20024@byui.edu
+ bal20024@byui.edu
