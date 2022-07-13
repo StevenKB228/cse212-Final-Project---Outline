@@ -12,6 +12,6 @@ Each module will contain descriptions and examples.  At the end of each module, 
 
 For questions or comments, please send them to:
 
-Chad Macbeth, BYU-Idaho, CSE 310, Section 3
+Steven Balibuno, BYU-Idaho, CSE 310, Section 3
 
  bal20024@byui.edu
