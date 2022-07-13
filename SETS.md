@@ -8,6 +8,8 @@ A set is a data structure that can store any number of unique values in any orde
 They are used to store multiple items in a single variable. They can be also be used to carry out mathematical set operations like union, intersection, difference and symmetric difference.
 
 
+<img width="545" alt="Hasing-Python" src="https://user-images.githubusercontent.com/92330348/178795122-f3f36c8b-0307-4f71-a68d-ff70974355f2.png">
+
 
 There are different types of set operations like set-union and set-intersection.
 
