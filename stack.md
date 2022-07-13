@@ -46,3 +46,5 @@ Stacks have two basic operations which are push and pop.
           top <- top - 1
           return data
       end procedure
+      
+ - [0-welcome.md](0-welcome.md)
