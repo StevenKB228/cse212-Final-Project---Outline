@@ -15,15 +15,15 @@ Stacks have two basic operations which are push and pop.
   
   An example: 
   
- begin
- if stack is full
-    return
- endif
-else  
- increment top
- stack[top] assign value
-end else
-end procedure
+       begin
+       if stack is full
+          return
+       endif
+      else  
+       increment top
+       stack[top] assign value
+      end else
+      end procedure
 
 . Pop: Pop removes the most recently added element that was not yet removed.
 
