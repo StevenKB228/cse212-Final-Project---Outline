@@ -2,6 +2,9 @@
 
 A set is a data structure that can store any number of unique values in any order you so wish. They are different from arrays in the sense that they only allow non-repeated, unique values within them.
 
+![sets computer science](https://user-images.githubusercontent.com/92330348/178794848-e80d16c8-3e95-4516-b703-bb43d6cfad71.png)
+
+
 They are used to store multiple items in a single variable. They can be also be used to carry out mathematical set operations like union, intersection, difference and symmetric difference.
 
 
