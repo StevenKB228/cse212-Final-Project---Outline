@@ -36,3 +36,6 @@ An Example of a set is:
                    thisset = {"apple", "banana", "cherry"}
 
                     print(len(thisset))
+                    
+                    
+ - [0-welcome.md](0-welcome.md)
