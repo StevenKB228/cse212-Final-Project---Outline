@@ -1,4 +1,4 @@
-STACKS:
+1. STACKS:
 
 Stacks are bundles of software that comprise your site's back end and everything from the operating system and web servers to APIs and programming frameworks. 
 Stacks follow the Last In, First Out principle which is also known as LIFO. We use stacks because they enables all data to operate at one end only. 
