@@ -8,6 +8,10 @@ For those who don't know, stacks are bundles of software that comprise your site
 
 We use stacks because they enables all data to operate at one end only, so the only element that can be removed is the element at the top of the stack, and only one item can be read or removed at a given time.
 
+![stack-660x345](https://user-images.githubusercontent.com/92330348/178791568-695cf41d-2100-4b35-9a01-61c5c41b458d.png)
+
+
+
 
 Stacks are faster due to the access pattern which makes it important to allocate and deallocate memory from a pointer.
 
