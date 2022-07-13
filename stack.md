@@ -29,14 +29,13 @@ end procedure
 
   An example:
   
-  begin
- if stack is empty
-    return
- endif
-else
- store value of stack[top]
- decrement top
- return value
-end else
-end procedure
-
+        begin procedure pop:
+        
+          if stack is empty
+              return null
+          endif
+          
+          data <- stack[top]
+          top <- top - 1
+          return data
+      end procedure
