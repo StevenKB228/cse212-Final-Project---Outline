@@ -5,9 +5,12 @@ A set is a data structure that can store any number of unique values in any orde
 They are used to store multiple items in a single variable. They can be also be used to carry out mathematical set operations like union, intersection, difference and symmetric difference.
 
 
+
 There are different types of set operations like set-union and set-intersection.
 
-.Set-union: A set-union is the union of two sets is the set of all the elements of both the sets without duplicates.
+
+
+. Set-union: A set-union is the union of two sets is the set of all the elements of both the sets without duplicates.
 
   An example:
                                                                                                                                                                                 
