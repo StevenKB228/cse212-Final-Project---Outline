@@ -1,4 +1,4 @@
-SET:
+# SET:
 
 A set is a data structure that can store any number of unique values in any order you so wish. They are different from arrays in the sense that they only allow non-repeated, unique values within them.
 
