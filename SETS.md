@@ -13,6 +13,7 @@ They are used to store multiple items in a single variable. They can be also be 
 
 Some sets use hashes to store elements. A Hash is basically an algorithm that takes an element and converts it to a chunk of fixed size called a hash.
 
+![hashing 101](https://user-images.githubusercontent.com/92330348/179078047-7a5dbc41-dcc1-422d-b178-2b1d1c0783b5.png)
 
 
 
