@@ -11,6 +11,13 @@ They are used to store multiple items in a single variable. They can be also be 
 <img width="545" alt="Hasing-Python" src="https://user-images.githubusercontent.com/92330348/178795122-f3f36c8b-0307-4f71-a68d-ff70974355f2.png">
 
 
+Some sets use hashes to store elements. A Hash is basically an algorithm that takes an element and converts it to a chunk of fixed size called a hash.
+
+
+
+
+
+
 There are different types of set operations like set-union and set-intersection.
 
 
