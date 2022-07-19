@@ -10,6 +10,12 @@ They are used to store data that has an inherent hierarchical structure. They ar
 
 Trees have two operating systems:
 
+
+. Binary tree which is a tree that links to no more than two other nodes, the two children are usually called the left and right nodes.
+![download](https://user-images.githubusercontent.com/92330348/179673100-3c5e73c5-fccf-46be-94b5-7f8674c10fa5.png)
+
+
+
 . Binary search tree (BST) which is a binary tree that follows rules for data that is put into the tree. In this data is placed into the BST by comparing the data with the value in the parent node but if the data being added is less than the parent node, then it is put in the left subtree.
 
 ![binary_search_tree (1)](https://user-images.githubusercontent.com/92330348/179672245-b21ce3f2-d7f9-48ac-8949-b3eeb16395ea.jpeg)
