@@ -18,9 +18,7 @@ Trees have two operating systems:
 . Binary search tree (BST) which is a binary tree that follows rules for data that is put into the tree. In this data is placed into the BST by comparing the data with the value in the parent node but if the data being added is less than the parent node, then it is put in the left subtree.
 
 
-
-
-
+ - [0-welcome.md](0-welcome.md)
 
 
 
