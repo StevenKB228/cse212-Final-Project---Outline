@@ -5,7 +5,7 @@ A set is a data structure that can store any number of unique values in any orde
 ![sets computer science](https://user-images.githubusercontent.com/92330348/178794848-e80d16c8-3e95-4516-b703-bb43d6cfad71.png)
 
 
-They are used to store multiple items in a single variable. They can be also be used to carry out mathematical set operations like union, intersection, difference and symmetric difference. Sets are mostly faster than lists because sets have been implemented using hash tables. So basically Python does not have to search the full set, which means that the time complexity in average is O(1).
+They are used to store multiple items in a single variable. They can also be used to carry out mathematical set operations like union, intersection, difference and symmetric difference. Sets are mostly faster than lists because sets have been implemented using hash tables. So basically Python does not have to search the full set, which means that the time complexity in average is O(1).
                     
 
 
@@ -46,6 +46,24 @@ An Example of a set is:
 
                     print(len(thisset))
                     
+                    
+                    
+# Implementing a stack:
+
+So with a static array, the first element of the array, which is located at position 0,0, will be the bottom of the stack.  The stack will have a fixed capacity, which means that if you continuously add items to the stack, it will result in a stack overflow. This is why static implementations must include an is_full() operation to check whether a stack is at its maximum capacity.
+
+This pseudocode shows how an array to service a stack with space for 10 elements could be initialised.
+
+
+                              MAX_SIZE = 10  // Uses a constant
+
+                              ARRAY stack[MAX_SIZE]
+                              top = -1
+                              
+
+
+ 
+ 
                  
   
  - [0-welcome.md](0-welcome.md)
