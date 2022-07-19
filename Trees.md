@@ -8,5 +8,12 @@ They are used to store data that has an inherent hierarchical structure. They ar
 
 ![tree](https://user-images.githubusercontent.com/92330348/179665833-b9f46957-5a3c-4196-ba63-4a689a09a44e.png)
 
+Trees have two operating systems:
+
+. Binary search tree (BST) which is a binary tree that follows rules for data that is put into the tree. In this data is placed into the BST by comparing the data with the value in the parent node but if the data being added is less than the parent node, then it is put in the left subtree.
+
+![binary_search_tree (1)](https://user-images.githubusercontent.com/92330348/179672245-b21ce3f2-d7f9-48ac-8949-b3eeb16395ea.jpeg)
+
+
 
 
