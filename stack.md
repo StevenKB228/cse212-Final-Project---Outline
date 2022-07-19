@@ -53,4 +53,20 @@ Stacks have two basic operations which are push and pop.
           return data
       end procedure
       
+      
+
+
+ # Implementing a stack:
+
+So with a static array, the first element of the array, which is located at position 0,0, will be the bottom of the stack.  The stack will have a fixed capacity, which means that if you continuously add items to the stack, it will result in a stack overflow. This is why static implementations must include an is_full() operation to check whether a stack is at its maximum capacity.
+
+This pseudocode shows how an array to service a stack with space for 10 elements could be initialised.
+
+
+                              MAX_SIZE = 10  // Uses a constant
+
+                              ARRAY stack[MAX_SIZE]
+                              top = -1
+                              
+      
  - [0-welcome.md](0-welcome.md)
