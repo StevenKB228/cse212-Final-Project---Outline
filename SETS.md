@@ -5,7 +5,8 @@ A set is a data structure that can store any number of unique values in any orde
 ![sets computer science](https://user-images.githubusercontent.com/92330348/178794848-e80d16c8-3e95-4516-b703-bb43d6cfad71.png)
 
 
-They are used to store multiple items in a single variable. They can be also be used to carry out mathematical set operations like union, intersection, difference and symmetric difference.
+They are used to store multiple items in a single variable. They can be also be used to carry out mathematical set operations like union, intersection, difference and symmetric difference. Sets are mostly faster than lists because sets have been implemented using hash tables. So basically Python does not have to search the full set, which means that the time complexity in average is O(1).
+                    
 
 
 <img width="545" alt="Hasing-Python" src="https://user-images.githubusercontent.com/92330348/178795122-f3f36c8b-0307-4f71-a68d-ff70974355f2.png">
@@ -45,5 +46,6 @@ An Example of a set is:
 
                     print(len(thisset))
                     
-                    
+                 
+  
  - [0-welcome.md](0-welcome.md)
