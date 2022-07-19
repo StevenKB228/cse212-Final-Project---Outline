@@ -46,6 +46,16 @@ An Example of a set is:
 
                     print(len(thisset))
                     
+  
+ # Implementing a SET:
+ 
+ Sets can be implemented using various data structures, which provide different time and space trade-offs for various operations. Some implementations are designed to improve the efficiency of very specialized operations, such as nearest or union. A simple implementation is to use a list, ignoring the order of the elements and taking care to avoid repeated values. This is simple but inefficient, as operations like set membership or element deletion are O(n), as they require scanning the entire list.
+ 
+ An example would be: 
+ 
+             my %elements = map { $_ => 1 } @elements;
+
+                    
                     
                             
   
