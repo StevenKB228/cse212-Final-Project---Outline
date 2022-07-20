@@ -77,7 +77,7 @@ For my stack problem I will be designing a stack that supports push and pop and 
 
 
 
-- [Stack solution](stack solution.py)
+- [stack solution.py](stack solution.py)
 
 
 
