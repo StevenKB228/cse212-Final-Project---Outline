@@ -68,5 +68,22 @@ This pseudocode shows how an array to service a stack with space for 10 elements
                               ARRAY stack[MAX_SIZE]
                               top = -1
                               
+                              
+                              
+
+# Stack problem:
+
+
+
+
+
+
+
+
+
+
+
+
+                              
       
  - [0-welcome.md](0-welcome.md)
