@@ -81,4 +81,9 @@ For my stack problem I will be designing a stack that supports push and pop and 
 
                               
       
-# - [0-welcome.md](0-welcome.md)
+
+
+
+
+
+- [0-welcome.md](0-welcome.md)
