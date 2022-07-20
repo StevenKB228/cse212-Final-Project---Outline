@@ -86,7 +86,7 @@ For my stack problem I will be designing a stack that supports push and pop and 
 
 
 
- - [0-welcome.md](0-welcome.md)
+ - [stack solution.py.](stack solution.py.)
                               
       
  - [0-welcome.md](0-welcome.md)
