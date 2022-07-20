@@ -4,7 +4,7 @@ Hey guys, I am Steven Balibuno and Welcome to the Python Fundamentals Tutorial. 
 
 - [Stack](stack.md)
 - [Set](SETS.md)
-- [Tree](tree.md)
+- [Trees](trees.md)
 
 Each module will contain descriptions and examples.  At the end of each module, you will find a problem to solve on your own.  You should only look at the solution after you have attempted to solve the problem first.
 
