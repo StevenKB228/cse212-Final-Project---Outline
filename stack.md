@@ -73,7 +73,7 @@ This pseudocode shows how an array to service a stack with space for 10 elements
 
 # Stack problem:
 
-Design a stack that supports push and pop and retrieves the element in constant time!
+For my stack problem I will be designing a stack that supports push and pop and retrieves the element in constant time.
 
 
 
