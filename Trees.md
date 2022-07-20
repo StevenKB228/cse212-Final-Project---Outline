@@ -18,6 +18,46 @@ Trees have two operating systems:
 . Binary search tree (BST) which is a binary tree that follows rules for data that is put into the tree. In this data is placed into the BST by comparing the data with the value in the parent node but if the data being added is less than the parent node, then it is put in the left subtree.
 
 
+
+# Implementing Trees:
+
+create a node class that has data and an insert class. The insert class will compare the value of the node to the parent node and decides to add it as a left node or a right node. Finally the PrintTree class is used to print the tree.
+
+ This is just me creating a Node class and adding an assigned value to the node. This becomes tree with only a root node.       
+       
+       
+       class Node:
+           def __init__(self, data):
+              self.left = None
+              self.right = None
+              self.data = data
+           def PrintTree(self):
+              print(self.data)
+
+        root = Node(22)
+        root.PrintTree()
+        
+        
+        
+        
+        
+        
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  - [0-welcome.md](0-welcome.md)
 
 
