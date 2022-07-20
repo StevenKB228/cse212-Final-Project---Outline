@@ -63,7 +63,14 @@ An Example of a set is:
  
  For this problem I made, I'll write a python program that removes items from a given list.
  
- 
-                            
+- [setsolution.py](setsolution.py)                          
   
- - [0-welcome.md](0-welcome.md)
+
+
+
+
+
+
+
+
+- [0-welcome.md](0-welcome.md)
