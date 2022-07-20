@@ -1,0 +1,6 @@
+num_set = set([10, 11, 13, 17, 20])
+print("Original set:")
+print(num_set)
+num_set.pop()
+print("\nAfter removing the first element from the said set:")
+print(num_set)
